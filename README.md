@@ -19,6 +19,8 @@ llvm-10-tools download: https://yadi.sk/d/mjyIx9Jq4REfjg
 
 /usr/lib/llvm-10/include/c++/v1/support/xlocale/
 
+/usr/lib/llvm-10/lib/clang/10.0.0
+
 
 
 
