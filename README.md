@@ -1,5 +1,5 @@
 # llvm-10-tools
-llvm-10-tools , ubuntu x86_64 , llvm toolchain , 20.04 , 20.10 , c++ v1 support , /usr/lib/llvm-10/include/ , Spark , TensorFlow , Draw , Skia , Spriv
+llvm-10-tools , ubuntu x86_64 , llvm toolchain , 20.04 , 20.10 , c++ v1 support , /usr/lib/llvm-10/include/ , Spark , TensorFlow , Draw , Skia , Spriv , libclang_rt.asan-i386.so , libclang_rt.asan-x86_64.so , libclang_rt.hwasan-x86_64.so , libclang_rt.ubsan_standalone-i386.so , libclang_rt.ubsan_standalone-x86_64.so ,libc++.so.1.0 , libc++.so , libc++abi.so.1.0 , all CodeGen.a platforms
 
 llvm-10-tools download: https://yadi.sk/d/mjyIx9Jq4REfjg
 
