@@ -20,4 +20,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This package could not be compiled in deb just because there was not enough space by the chut method into a mixed 16.04 system which consisted of packages ubuntu xenial, lunix light and Peppermint 8 Eight. It is forbidden to edit the original files until the material is assigned to me as the person who released the generated product under Apache-2.0
+This package could not be compiled in deb just because there was not enough 
+space by the chut method into a mixed 16.04 system which consisted of packages 
+ubuntu xenial, lunix light and Peppermint 8 Eight. It is forbidden to edit the 
+original files until the material is assigned to me as the person who released 
+the generated product under Apache-2.0
