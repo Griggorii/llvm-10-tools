@@ -3,7 +3,7 @@ llvm-10-tools , ubuntu x86_64 , llvm toolchain , 20.04 , 20.10 , c++ v1 support 
 
 llvm-10-tools download: https://yadi.sk/d/mjyIx9Jq4REfjg
 
-llvm-10-tools-full download: https://yadi.sk/d/Cgk8MDs9iyW84A
+llvm-10-tools-full download: https://yadi.sk/d/Cgk8MDs9iyW84A llvm пропадёт wayland этот llvm экспериментальный потому как надо найти что бы завести потому что его не может программа задетектить , скорее на другой системе сделать маке под llvm-10 в эту перебросить и раскомпилировать тогда можно получить модификацию
 
 В ходе разработки llvm для mesa я наткнулся что mesa нуждается в инклюде pthread_np.h
 
