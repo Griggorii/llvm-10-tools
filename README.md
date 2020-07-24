@@ -3,6 +3,8 @@ llvm-10-tools , ubuntu x86_64 , llvm toolchain , 20.04 , 20.10 , c++ v1 support 
 
 llvm-10-tools download: https://yadi.sk/d/mjyIx9Jq4REfjg
 
+llvm-10-tools-full download: https://yadi.sk/d/Cgk8MDs9iyW84A
+
 В ходе разработки llvm для mesa я наткнулся что mesa нуждается в инклюде pthread_np.h
 
 /usr/lib/llvm-10/include/c++/v1/support/android/
